@@ -1,5 +1,3 @@
-[TOC]
-
 # SWEN30006 Notes
 
 ## Diagrams
