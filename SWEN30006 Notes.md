@@ -40,7 +40,7 @@ Three Common Use Case Formats
 
 ### Domain Model (Chapter 9 textbook P218~217)
 
-![image-20200701030813396](assets\image-20200701030813396.png)
+![image-20200701030813396](assets/image-20200701030813396.png)
 
 A domain model may show:
 
@@ -58,15 +58,15 @@ Common software artifacts to avoid in domain model:
 
 ### Design Class Diagram (Chapter 16 textbook P382)
 
-![image-20200701041406036](assets\image-20200701041406036.png)
+![image-20200701041406036](assets/image-20200701041406036.png)
 
 ### System Sequence Diagram (Chapter 10 textbook P272~285)
 
-![image-20200701034356968](assets\image-20200701034356968.png)
+![image-20200701034356968](assets/image-20200701034356968.png)
 
 ### State Machine Diagram (Chapter 29 textbook P657~669)
 
-![image-20200701042302605](assets\image-20200701042302605.png)
+![image-20200701042302605](assets/image-20200701042302605.png)
 
 ## Object Oriented Concepts
 
@@ -196,4 +196,4 @@ This is a structural pattern that allows users to add new responsibilities to an
 
 #### Architecture Factor Table
 
-![image-20200630230517516](assets\image-20200630230517516.png)
+![image-20200630230517516](assets/image-20200630230517516.png)
