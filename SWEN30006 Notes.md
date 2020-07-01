@@ -48,11 +48,13 @@ A domain model may show:
 
 Common software artifacts to avoid in domain model:
 
-- Database: e.g. SalesDatabase
-- method: e.g. print()
-- access modifiers: e.g. public(+), private(-), protected(#)
-- datatype: e.g. float, string, etc.
-- dependency: e.g. arrow from one class to another
+- (×) Database: e.g. SalesDatabase
+- (×) method: e.g. print()
+- (×) access modifiers: e.g. public(+), private(-), protected(#)
+- (×) datatype: e.g. float, string, etc.
+- (×) dependency: e.g. arrow from one class to another
+- (×) interface: <interface> NOSQL DB Adapter
+- (√) abstract
 
 ### Design Class Diagram (Chapter 16 textbook P382)
 
