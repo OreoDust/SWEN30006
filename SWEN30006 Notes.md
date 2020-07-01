@@ -53,7 +53,7 @@ Common software artifacts to avoid in domain model:
 - (×) access modifiers: e.g. public(+), private(-), protected(#)
 - (×) datatype: e.g. float, string, etc.
 - (×) dependency: e.g. arrow from one class to another
-- (×) interface: <interface> NOSQL DB Adapter
+- (×) interface: e.g. <interface> NOSQL DB Adapter
 - (√) abstract
 
 ### Design Class Diagram (Chapter 16 textbook P382)
